@@ -1,0 +1,12 @@
+Bot.py
+iqoptionapi-master.zip
+main.py
+main2.py
+main_prueba.py
+prueba.py
+iqoptionapi-master/
+requirements.txt
+ __pycache__/
+__pycache__/guia.cpython-39.pyc
+__pycache__/main.cpython-39.pyc
+__pycache__/main_prueba.cpython-39.pyc
